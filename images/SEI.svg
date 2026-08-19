@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="246.71" viewBox="0 0 156 246.71">
+    <defs>
+        <style>
+            .cls-1 {
+            fill: url(#linear-gradient);
+            }
+
+            .cls-2 {
+            fill: url(#linear-gradient-2);
+            }
+
+            .cls-3 {
+            mask: url(#mask);
+            }
+
+            .cls-4 {
+            fill: #00d29a;
+            }
+
+            .cls-5 {
+            mask: url(#mask-2);
+            }
+
+            .cls-6 {
+            fill: url(#sei_green_gradient);
+            }
+
+            .cls-7 {
+            fill: url(#linear-gradient-3);
+            }
+
+            .cls-8 {
+            filter: url(#luminosity-noclip-2);
+            }
+
+            .cls-9 {
+            filter: url(#luminosity-noclip);
+            }
+        </style>
+        <linearGradient id="linear-gradient" x1="-361.78" y1="449.54" x2="-359.42" y2="449.54" gradientTransform="matrix(-33.96, 0, 0, 33.96, -12208.2, -15144.32)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="-352.97" y1="432.79" x2="-350.61" y2="432.79" gradientTransform="matrix(0, -58.03, -58.03, 0, 25193.52, -20258.9)" xlink:href="#linear-gradient"/>
+        <filter id="luminosity-noclip" x="-78.63" y="-49.72" width="313.26" height="346.15" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-color="#fff" result="bg"/>
+            <feBlend in="SourceGraphic" in2="bg"/>
+        </filter>
+        <mask id="mask" x="-78.63" y="-49.72" width="313.26" height="346.15" maskUnits="userSpaceOnUse">
+            <g class="cls-9">
+                <rect class="cls-1" x="-64.48" y="8.18" width="284.97" height="230.35" transform="translate(-64.48 154.96) rotate(-70.2)"/>
+            </g>
+        </mask>
+        <filter id="luminosity-noclip-2" x="-123.32" y="-77.98" width="402.63" height="402.66" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-color="#fff" result="bg"/>
+            <feBlend in="SourceGraphic" in2="bg"/>
+        </filter>
+        <mask id="mask-2" x="-123.32" y="-77.98" width="402.63" height="402.66" maskUnits="userSpaceOnUse">
+            <g class="cls-8">
+                <rect class="cls-2" x="-63.98" y="-19.41" width="283.95" height="285.52" transform="translate(-63.98 89.55) rotate(-44.3)"/>
+            </g>
+        </mask>
+        <linearGradient id="sei_green_gradient" data-name="sei green gradient" x1="57.35" y1="91.67" x2="189.76" y2="157.63" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#00d29a" stop-opacity="0"/>
+            <stop offset="1" stop-color="#00d29a"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1="28.64" y1="192.28" x2="27.49" y2="92.07" xlink:href="#sei_green_gradient"/>
+    </defs>
+    <title>logo</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <g>
+                <g class="cls-3">
+                    <path class="cls-4" d="M0,93.43Z"/>
+                </g>
+                <g>
+                    <path class="cls-4" d="M57.16,128.16a157.07,157.07,0,0,1,98.18-34.73H0Z"/>
+                    <path class="cls-4"
+                          d="M73.2,79h51.18a1.06,1.06,0,0,0,1.06-1V64.71a1.06,1.06,0,0,0-1.06-1H91.29a1.06,1.06,0,0,1-1.06-1V47.84a1.06,1.06,0,0,1,1.06-1.05h24.4a1.06,1.06,0,0,0,1.06-1V33.07a1.06,1.06,0,0,0-1.06-1H91.29A1.06,1.06,0,0,1,90.23,31V17.52a1.06,1.06,0,0,1,1.06-1.05h33.09a1.06,1.06,0,0,0,1.06-1V2.36a1.06,1.06,0,0,0-1.06-1H73.2a1.06,1.06,0,0,0-1.07,1V77.9A1.06,1.06,0,0,0,73.2,79Z"/>
+                    <path class="cls-4"
+                          d="M10.41,73.89c5.95,4.17,14,6.37,23.35,6.37,8.63,0,16.37-2.3,21.82-6.48a21.9,21.9,0,0,0,8.74-18C64.32,44.33,57.58,37.2,43.7,34l-16-3.68c-5.29-1.13-8-3.78-8-7.87,0-5.2,4.63-8.57,11.79-8.57,7.63,0,11.41,3.69,13.29,7.32a1.05,1.05,0,0,0,.94.56H61.85a1.05,1.05,0,0,0,1-1.32,25.83,25.83,0,0,0-9-13.61C48.27,2.35,40.47,0,31.36,0,22.82,0,15.15,2.42,9.74,6.81a22.26,22.26,0,0,0-8.4,17.83c0,11.21,6.52,18.08,19.93,21L37,48.92c4.66,1.06,9,2.77,9,8.14,0,5.6-5,9.23-12.6,9.23-6.84,0-11.76-2.71-14-7.67a1.05,1.05,0,0,0-1-.6H1.07a1.05,1.05,0,0,0-1,1.33A26.59,26.59,0,0,0,10.41,73.89Z"/>
+                    <path class="cls-4" d="M154.43,1.31H138.06a1.05,1.05,0,0,0-1.06,1V77.9a1.05,1.05,0,0,0,1.06,1h16.37a1.06,1.06,0,0,0,1.06-1V2.36A1.06,1.06,0,0,0,154.43,1.31Z"/>
+                </g>
+            </g>
+            <path class="cls-6" d="M156,93.43h-.72c-19.79-.35-40.73,4.18-59.13,11.71a157.77,157.77,0,0,0-39,23l98.84,60Z"/>
+            <path class="cls-7" d="M0,93.43V246.71H.05c0-47.78,22.25-90.44,57.12-118.56L0,93.43Z"/>
+        </g>
+    </g>
+</svg>
