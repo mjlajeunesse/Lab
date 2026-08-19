@@ -1,0 +1,20 @@
+a.DOI {display:inline; border-bottom: dotted 0px; color:#C8C8C8; font-family:"Courier"; font-size:80%;}
+a.DOIhide {display:none;}
+a.DOIsee {display:inline; color:#C8C8C8; font-family:"Courier"; font-size:80%;}
+a.DOIsee:hover {text-decoration: underline; }
+
+p.REF { text-align:left; text-indent: -50pt; margin-left:20%; margin-right: 15%; margin-bottom:5pt;}
+p.REF2 { text-align:left; text-indent: -50pt; margin-left:25%; margin-right: 20%; margin-bottom:5pt;}
+p.REF3 { text-align:left;  margin-left:10%; text-indent: -15pt; margin-bottom:5pt;}
+
+div.DOI {display:inline; color:#C8C8C8; font-family:"Courier"; font-size:80%;}
+
+div.book2 { position: relative; ; margin-bottom:5pt;}
+div.book2 img { position: relative; margin-left: 7.5%; float: left;; margin-bottom:5pt;}
+div.book {position: relative;margin-left: 25%; align:right; border-left:solid 4px rgba(144, 144, 144, 0.5); border-right:none; margin-bottom:5pt;} 
+p.book {position: relative; text-align:left; text-indent: -50pt; margin-left:10%; margin-right:20%; margin-bottom:5pt;}
+
+
+
+div.software {font-family:"Arial"; color:white; width:160pt;}
+div.softwareTitle {font-family:"Arial"; color:white; width:200pt;}
